@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "01-07-2021",
+      "user": {
+        "firstName": "John",
+        "lastName": "Doe"
+      },
+      "commerce": null,
+      "budget": null,
+      "credit": "20.00",
+      "debit": "",
+      "balance": "80.00"
+    },
+    {
+      "id": 2,
+      "date": "02-07-2021",
+      "user": {
+        "firstName": "John",
+        "lastName": "Doe"
+      },
+      "commerce": "Yaydoo Inc",
+      "budget": "Caja chica",
+      "credit": "",
+      "debit": "20.00",
+      "balance": "100.00"
+    },
+    {
+      "id": 3,
+      "date": "03-07-2021",
+      "user": {
+        "firstName": "John",
+        "lastName": "Doe"
+      },
+      "commerce": "Yaydoo Inc",
+      "budget": null,
+      "credit": "20.00",
+      "debit": "",
+      "balance": "80.00"
+    },
+    {
+      "id": 4,
+      "date": "03-07-2021",
+      "user": {
+        "firstName": "John",
+        "lastName": "Doe"
+      },
+      "commerce": "Yaydoo Inc",
+      "budget": null,
+      "credit": "20.00",
+      "debit": "",
+      "balance": "60.00"
+    }
+  ]
+}
